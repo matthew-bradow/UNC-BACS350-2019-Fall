@@ -6,11 +6,15 @@
 
     $site_title = 'UNC BACS 350';
     
-    $page_title = "The Seaman's Brain";
+    $page_title = "Matthew's Brain";
     
     $content = '
         <p>
             <a href="..">Home</a>
+        </p>
+        <img src="images/profilePicture.jpg" style="width:200px;">
+        <p>
+            Matthew Bradow is a Junior at the University of Colorado. He is currently pursuing a Bachelor of Science degree in Software Engineering as well as a Music minor and Music Technology certificate.
         </p>
         <p> 
             This page is the beginning of an ongoing project in BACS 350.

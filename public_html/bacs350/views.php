@@ -15,7 +15,7 @@
                     <meta charset="UTF-8">
                     <title>' . $page_title . '</title>
 
-                    <link rel="icon" type="image/x-icon" href="/bacs350/favicon.ico">
+                    <link rel="icon" type="/bacs350/images/myFavicon.png">
                     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
                     <link rel="stylesheet" href="/bacs350/unc.css">
 

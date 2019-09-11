@@ -4,7 +4,7 @@
         Create page content with a template.
     */
 
-    $site_title = "Mark Seaman";
+    $site_title = "Matthew Bradow";
     
     $page_title = 'BACS 350 Code Workshop';
 
@@ -13,7 +13,7 @@
             <a href="/bacs350">Home</a>
         </p>
         <p> 
-            <img src="/bacs350/images/Mark-Seaman-200.jpg" alt="Mark Seaman"></img>
+            <img src="/bacs350/images/profilePicture.jpg" alt="Matthew Bradow" style="width: 200px;"></img>
         </p>
         
         <h3>Code</h3>
@@ -37,7 +37,7 @@
                 <a href="https://www.unco.edu/canvas/">Canvas</a>
             </li>
             <li>
-                <a href="https://unco-bacs.org">WordPress site</a>
+                <a href="https://matthewbradowwebdesign.com">WordPress site</a>
             </li>
             <li>
                 <a href="https://unco-bacs.org/bacs350">My Home Page</a>
@@ -46,7 +46,7 @@
                 <a href="https://shrinking-world.com/unc/bacs350">Sensei Server</a>
             </li>
             <li>
-                <a href="https://github.com/Mark-Seaman/UNC-BACS350-2019-Fall">Github</a>
+                <a href="https://github.com/matthew-bradow/UNC-BACS350-2019-Fall">Github Repo</a>
             </li>
         </ul>
         

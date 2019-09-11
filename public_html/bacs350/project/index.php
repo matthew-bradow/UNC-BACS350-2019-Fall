@@ -4,7 +4,7 @@
         Create page content by rendering a template.
     */
 
-    $site_title = 'UNC BACS 350';
+    $site_title = 'UNC BACS 350 - Matthew Bradow';
     
     $page_title = "My Projects";
     

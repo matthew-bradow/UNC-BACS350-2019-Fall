@@ -6,20 +6,23 @@
 
     $site_title = 'UNC BACS 350';
     
-    $page_title = 'Render Page Design Pattern';
+    $page_title = 'Matthew Bradow - Demo Page Design Pattern';
     
     $content = '
         <p> 
             This page is a demonstration of the pattern in use.
         </p>
         <p> 
-            Create a reusable HTML template that contains custom data.
+            This page was created with a reusable HTML template that contains custom data.
         </p>
         <p> 
-            Define the custom data as variables and include the template.
+            Any custom data has been defined as variables and included within the template.
         </p>
         <p> 
-            Call a function that returns HTML with the custom data passed as parameters.
+            A function as been called that return this HTML with the custom data passed as parameters.
+        </p>
+        <p>
+            A lot of different parts have come together to create the page that you are reading right now.
         </p>
     ';
 
